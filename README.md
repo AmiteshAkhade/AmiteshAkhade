@@ -33,6 +33,6 @@ Specialization: Machine Learning and Statistics
 ---
 
 ## 🌐 Connect with Me
-LinkedIn:
+
 Email: amiteshakhade@gmail.com
 GitHub: https://github.com/AmiteshAkhade
